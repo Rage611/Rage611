@@ -19,8 +19,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=55&lines=Building+useful+software;Full-Stack+Engineering;Exploring+AI+%26+Automation;Security+%26+Developer+Tooling;Turning+ideas+into+working+products"
-    alt="Rage611 typing introduction"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=55&lines=Full-Stack+Engineering;Building+useful+software;Exploring+AI+%26+Automation;Security+%26+Developer+Tooling"
+    alt="Rage611"
   />
 </p>
 
@@ -44,12 +44,12 @@
 I'm a **full-stack developer** who enjoys turning ideas into practical,
 working software.
 
-My interests span **web development, backend systems, security,
-AI-powered applications, automation, and developer tooling**.
+I work across **web development, backend systems, security, AI-powered
+applications, automation, and developer tooling**.
 
-I enjoy working across the stack — from interfaces and APIs to the systems
-and logic behind them — while continuously learning and experimenting with
-new technologies.
+I enjoy taking a problem from idea to implementation — designing the
+interface, building the systems behind it, and continuously improving
+the result.
 
 > **Build with purpose. Ship with quality. Keep learning.**
 
@@ -74,28 +74,28 @@ new technologies.
 
 ## 🚀 Selected Work
 
-> A selection of projects I've built and explored across security,
-> full-stack development, AI, and event-driven systems.
+My strongest projects across security, full-stack development,
+AI, and event-driven systems.
 
 ### 🛡️ Guard-grid
 
-**Security-focused project**
+**My primary project**
 
-One of my primary projects, focused on building practical software
-around security and reliable system design.
+A security-focused project exploring practical software engineering
+with an emphasis on reliable systems and security.
 
-`TypeScript` · `Security` · `Engineering`
+**Stack:** `TypeScript` · `Security`
 
 ---
 
 ### 🔐 TMS Security
 
-**Security & engineering project**
+**Security-focused engineering**
 
-A security-focused project exploring practical approaches to building
-and working with more resilient software systems.
+A project focused on security-oriented development and exploring
+practical approaches to building more resilient software.
 
-`JavaScript` · `Security`
+**Stack:** `JavaScript` · `Security`
 
 ---
 
@@ -103,21 +103,21 @@ and working with more resilient software systems.
 
 **Full-stack application**
 
-A project exploring the architecture and implementation of a modern
-communication-focused application.
+A project exploring the architecture and implementation of a
+modern communication-focused application.
 
-`JavaScript` · `Full-Stack` · `Web`
+**Stack:** `JavaScript` · `Full-Stack`
 
 ---
 
 ### 🤖 AI Finance Follow-up Agent
 
-**AI & automation**
+**AI + automation**
 
 An AI-focused project exploring automated workflows for
 finance-related follow-up tasks.
 
-`Python` · `AI` · `Automation`
+**Stack:** `Python` · `AI` · `Automation`
 
 ---
 
@@ -128,7 +128,7 @@ finance-related follow-up tasks.
 A project exploring event-driven approaches to handling
 congestion and system activity.
 
-`JavaScript` · `Event-Driven` · `Systems`
+**Stack:** `JavaScript` · `Event-Driven`
 
 ---
 
@@ -147,22 +147,13 @@ congestion and system activity.
   </picture>
 </p>
 
-<p align="center">
-  <sub>Live GitHub activity styled with the Neon theme.</sub>
-</p>
-
 ---
 
 ## 🟩 Contribution Activity
 
 <p align="center">
-  <!--
-    Replace this with the live Neon contribution-card endpoint
-    once selected. Do not use a static/fake heatmap.
-  -->
-
   <img
-    src="https://www.gitskins.com/api/section/contributions?username=Rage611&theme=neon"
+    src="https://gh-heat.anishroy.com/api/Rage611/svg?colors=061b17,0b3d2e,00a86b,00e676,7cffb2&darkMode=true&bg=0b1117&shape=square&radius=3&borderWidth=1&borderColor=123f35&shadow=true&font=JetBrains%20Mono&fontSize=10&fontWeight=600&textColor=9be7c4&cellSize=11&cellGap=2&padding=10&showMonthLabels=true&showDayLabels=false&showLegend=true&legendPos=top"
     alt="Rage611 contribution activity"
   />
 </p>
