@@ -34,10 +34,7 @@
   </picture>
 </p>
 
-> Building things, breaking things, and occasionally making them work better.
-
-I enjoy turning ideas into useful software, experimenting with new technologies,
-and building projects that are actually worth using.
+> Building things, breaking things, and making them better.
 
 ---
 
@@ -58,7 +55,7 @@ and building projects that are actually worth using.
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
 <p align="center">
   <picture>
@@ -75,7 +72,7 @@ and building projects that are actually worth using.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <picture>
@@ -92,38 +89,14 @@ and building projects that are actually worth using.
 
 ---
 
-## 🟩 Contribution Heatmap
-
-<p align="center">
-
-  <!--
-    GitHub's native contribution graph is already displayed
-    directly below the profile README.
-
-    Keep this section minimal rather than duplicating
-    the same contribution data with another widget.
-  -->
-
-  <b>▰ ▰ ▰ ▰ ▰ ▰ ▰ ▰ ▰ ▰ ▰ ▰</b>
-
-  <br>
-
-  <sub>
-    Building consistently. Shipping continuously.
-  </sub>
-
-</p>
-
----
-
-## 🌌 Currently
+## ⚡ Currently Building
 
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   ▸ Building        Full-Stack Projects      │
-│   ▸ Exploring       New Technologies         │
-│   ▸ Improving       Open Source              │
-│   ▸ Learning        Every Day                │
+│   ▸ Full-Stack       Projects                │
+│   ▸ AI               Experiments              │
+│   ▸ Open Source      Contributions           │
+│   ▸ New Tech         Always                  │
 │                                              │
 └──────────────────────────────────────────────┘
