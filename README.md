@@ -26,7 +26,7 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ Profile
 
 <p align="center">
   <picture>
@@ -41,61 +41,87 @@
   </picture>
 </p>
 
-I'm a **full-stack developer** who enjoys turning ideas into practical,
-working software.
-
-I work across **web development, backend systems, security, AI-powered
-applications, automation, and developer tooling**.
-
-I enjoy taking a problem from idea to implementation — designing the
-interface, building the systems behind it, and continuously improving
-the result.
-
-> **Build with purpose. Ship with quality. Keep learning.**
-
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/stack?username=Rage611&theme=neon&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/stack?username=Rage611&theme=neon"
-      alt="Rage611 technology stack"
-    />
-  </picture>
+
+  <!-- Languages -->
+
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <br />
+
+  <!-- Frameworks -->
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+  <br />
+
+  <!-- Database -->
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <br />
+
+  <!-- AI / ML -->
+
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <br />
+
+  <!-- Cloud / Tools -->
+
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </p>
 
 ---
 
 ## 🚀 Selected Work
 
-My strongest projects across security, full-stack development,
+The projects I'm most proud of across security, full-stack development,
 AI, and event-driven systems.
 
 ### 🛡️ Guard-grid
 
-**My primary project**
+**Security-focused engineering**
 
-A security-focused project exploring practical software engineering
-with an emphasis on reliable systems and security.
+A primary project centered around building practical software
+with an emphasis on security, reliability, and scalable system design.
 
-**Stack:** `TypeScript` · `Security`
+`TypeScript` · `Next.js` · `Supabase` · `PostgreSQL`
 
 ---
 
 ### 🔐 TMS Security
 
-**Security-focused engineering**
+**B2B security platform**
 
-A project focused on security-oriented development and exploring
-practical approaches to building more resilient software.
+A production-focused platform built around secure business workflows,
+serverless architecture, and reliable client-facing systems.
 
-**Stack:** `JavaScript` · `Security`
+`JavaScript` · `React` · `Node.js` · `Vercel`
 
 ---
 
@@ -103,21 +129,21 @@ practical approaches to building more resilient software.
 
 **Full-stack application**
 
-A project exploring the architecture and implementation of a
-modern communication-focused application.
+A full-stack project focused on recreating a modern communication
+experience while exploring frontend and backend application architecture.
 
-**Stack:** `JavaScript` · `Full-Stack`
+`JavaScript` · `React` · `Full-Stack`
 
 ---
 
 ### 🤖 AI Finance Follow-up Agent
 
-**AI + automation**
+**AI-powered automation**
 
 An AI-focused project exploring automated workflows for
 finance-related follow-up tasks.
 
-**Stack:** `Python` · `AI` · `Automation`
+`Python` · `AI` · `Automation`
 
 ---
 
@@ -125,10 +151,26 @@ finance-related follow-up tasks.
 
 **Event-driven systems**
 
-A project exploring event-driven approaches to handling
-congestion and system activity.
+A project exploring event-driven approaches to processing
+system activity and handling congestion.
 
-**Stack:** `JavaScript` · `Event-Driven`
+`JavaScript` · `Event-Driven` · `Systems`
+
+---
+
+### 🤟 Voicify
+
+**Real-time sign language recognition**
+
+A computer-vision project for continuous sign-language recognition
+using live webcam input and machine learning.
+
+- Custom CNN trained across 20+ ASL gesture classes
+- 94% classification accuracy
+- Real-time webcam inference at approximately 30 FPS
+- Sub-100ms processing target
+
+`Python` · `TensorFlow` · `OpenCV` · `CNN`
 
 ---
 
